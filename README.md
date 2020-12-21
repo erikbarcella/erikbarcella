@@ -1,4 +1,4 @@
-# Bem vindo fique a vontade e aproveite 💜
+# Bem vindo(a) fique a vontade e aproveite 💜
 
 ## Erik Barcella
 
