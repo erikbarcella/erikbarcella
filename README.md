@@ -9,15 +9,8 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/erik_barcelaaa/?hl=pt-br)
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://pt.stackoverflow.com/users/186416/erik-barcella)
 
-###### Nunca deixe de aprender constantemente  💻 
 
-### Sobre Mim 💭
-##### Desde criança entusista da ciência e muito curioso sobre o universo, na adolescencia pela tecnologia ainda mais me interessei comecei a estudar e logo me aprofundei quando vi já estava definido qual faculdade fazer e carreira á seguir📚
-
-### Um mundo melhor e de livre acesso para todos é o quero , através da tecnologia tentando passar como forma de ensinamento que nunca é cedo para começar nem tarde para aprender ⌛
-
-
-### 🚀 Minhas tecnologias e ferramentas ⚙
+### ⚙
 #### Navegue pelos repositorios e conheça mais  👀
 <div class="row">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
