@@ -1,6 +1,6 @@
-# Bem vindo, fique a vontade e aproveite 💜
+# 
 
-## Erik Barcella
+## Erik
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabriellopes00)](https://github.com/ErikBarcellaT)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lopes-6625631b0/)](https://www.linkedin.com/in/erik-barcella-189688132/)
